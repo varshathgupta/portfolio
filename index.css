@@ -39,7 +39,7 @@ p a{
 	text-decoration:none;
 	background-color:#F5F5DC;
 }
-p a hover{
+p a:hover{
 	background-color:#FF6699;
 	pointer:cursor;
 }
