@@ -48,7 +48,7 @@ body p a{
 	
 	box-sizing: border-box;
 	border: 10px;
-	inset-block: 3px;
+	
 }
 body p a:hover{
 	background-color:#9F6699;
